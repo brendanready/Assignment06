@@ -44,10 +44,10 @@ $('empForm').addEventListener('submit', (e) => {
 	// SET THE TEXT OF THE LOGINDETAILS ELEMENT TO THE ABOVE SET VARIABLES
 	let textLoginDetails =
 		`ID: ${id}<br>
-        Name: ${name}<br>
-        Extension: ${ext}<br>
-        Email: ${email}<br>
-        Department: ${dept}`;
+        	Name: ${name}<br>
+        	Extension: ${ext}<br>
+        	Email: ${email}<br>
+        	Department: ${dept}`;
 
 	// CLOSE THE POPUP
 	window.close();
