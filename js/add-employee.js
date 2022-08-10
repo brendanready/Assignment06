@@ -10,8 +10,7 @@
 //      so there's no need to wrap the code in window.addEventListener('load', () => {});
 
 // SET WIDTH AND HEIGHT VARIABLES TO 800 x 700
-let width = 800,
-	height = 700;
+let width = 800, height = 700;
 
 // RESIZE THE POPUP TO THE SET WIDTH AND HEIGHT
 window.resizeTo(width, height);
